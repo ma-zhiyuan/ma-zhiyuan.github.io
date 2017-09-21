@@ -11,6 +11,7 @@ tags:
     - 自动化运维
 ---
 
+
 #SaltStack笔记--安装&配置&命令
 
 ##安装 -->[文档](https://docs.saltstack.com/en/latest/topics/installation/index.html)
