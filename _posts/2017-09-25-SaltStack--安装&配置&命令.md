@@ -2,9 +2,9 @@
 layout:     post
 title:      SaltStack笔记--安装&配置&命令
 subtitle:   入门级SaltStack学习笔记
-date:       2017-09-21
+date:       2017-09-25
 author:     zhiyuan.ma
-header-img: img/post-bg-ios9-web.jpg
+header-img: img/post-bg-debug.png
 catalog: true
 tags:
     - SaltStack
