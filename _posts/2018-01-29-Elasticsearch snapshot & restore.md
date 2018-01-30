@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Elasticsearch snapshot&restore
+title:      Elasticsearch snapshot & restore
 subtitle:   es学习笔记
 date:       2018-01-29
 author:     zhiyuan.ma
@@ -11,7 +11,7 @@ tags:
     - 数据处理
 ---
 
-# Elasticsearch snapshot&restore
+# Elasticsearch snapshot & restore
 
 > **备份**
 
